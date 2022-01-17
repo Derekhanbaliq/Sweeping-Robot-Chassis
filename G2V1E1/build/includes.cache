@@ -1,0 +1,27 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "D:\\Arduino\\hardware\\arduino\\avr\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "D:\\Arduino\\hardware\\arduino\\avr\\variants\\mega"
+  },
+  {
+    "Sourcefile": "e:\\Z SenseTime 商汤科技 实习\\2 扫地机器人\\2 Arduino代码\\G2V1E1\\build\\sketch\\G2V1E1.ino.cpp",
+    "Include": "FlexiTimer2.h",
+    "Includepath": "C:\\Users\\derek_e9pp37r\\Documents\\Arduino\\libraries\\FlexiTimer2"
+  },
+  {
+    "Sourcefile": "e:\\Z SenseTime 商汤科技 实习\\2 扫地机器人\\2 Arduino代码\\G2V1E1\\build\\sketch\\G2V1E1.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\derek_e9pp37r\\Documents\\Arduino\\libraries\\FlexiTimer2\\FlexiTimer2.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
